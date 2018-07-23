@@ -7,7 +7,9 @@
     "name": "Drewz",
     "email": "drewz@2mod5.com"
   },
-  "contributors": ["Mark van Osch <mhpm.van.osch@gmail.com"]
+  "contributors": [
+    "Mark van Osch <mhpm.van.osch@gmail.com"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/MarkvanOsch/grunt-connect-proxy"
